@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AakashDave
-- 👀 I’m interested in Fields like MERNstack,Fullstack devloper,blockchain,software devlopment,java.
+- 👀 I’m interested in Fields like MERNstack, Fullstack devloper, blockchain, software devlopment, java.
 - 🌱 I’m currently learning MERNstack and Blockchain.
 - 💞️ I’m looking to collaborate on any open source project.
 - 📫 How to reach me-> aakashdave21@gmail.com
